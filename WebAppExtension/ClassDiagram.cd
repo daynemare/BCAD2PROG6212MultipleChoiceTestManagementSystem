@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebAppExtension.BundleConfig" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\BundleConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.RouteConfig" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.EditAccountDetails" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAMAAAA=</HashCode>
+      <FileName>EditAccountDetails.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.Global" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.PortalHome">
+    <Position X="9.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAAAAIAAAA=</HashCode>
+      <FileName>PortalHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.SiteMaster" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.Site_Mobile" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAACAAAAAIAAAIAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Mobile.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.StudentLogin">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAARAAACAAwAAgAAAAAAIEAAARAAAAAAAAIkAAA=</HashCode>
+      <FileName>StudentLogin.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.ViewResults">
+    <Position X="12.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAAAAAQAgAAAAAAAAAAAAAABAAAAABAAIwAAA=</HashCode>
+      <FileName>ViewResults.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebAppExtension.ViewSwitcher" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAAIA=</HashCode>
+      <FileName>ViewSwitcher.ascx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
